@@ -37,6 +37,21 @@ The target variable is `DEATH_EVENT`:
 
 The `time` variable represents the follow-up duration and was excluded from the baseline machine learning models.
 
+### Dataset Source
+
+The dataset used in this project is the **Heart Failure Clinical Records** dataset from the **UCI Machine Learning Repository**.
+
+* **Source:** UCI Machine Learning Repository
+* **Dataset:** Heart Failure Clinical Records
+* **Number of patients:** 299
+* **DOI:** 10.24432/C5Z89R
+* **License:** CC BY 4.0
+
+The dataset was originally described in:
+
+> Chicco, D., & Jurman, G. (2020). Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. *BMC Medical Informatics and Decision Making, 20*, 16.
+
+
 ---
 
 ## Research Questions
