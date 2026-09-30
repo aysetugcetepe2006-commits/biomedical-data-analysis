@@ -142,7 +142,7 @@ Feature importance reflects the contribution of variables to model predictions a
 
 The exploratory and statistical analyses showed differences between mortality groups for several continuous clinical variables.
 
-![Correlation](figures/correlation-1.png) 
+![Correlation](figures/correlation.png) 
 ![Ejection Boxplot](figures/ejection.png)
 ![Serum Creatine Boxplot](figures/serum_creatine.png) 
 ![Age Boxplot](figures/age.png)
